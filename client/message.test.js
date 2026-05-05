@@ -1,5 +1,5 @@
 const getMessage = require('./message');
 
 test('returns Hello CI', () => {
-  expect(getMessage()).toBe('Hello World');
+  expect(getMessage()).toBe('Hello CI');
 });
